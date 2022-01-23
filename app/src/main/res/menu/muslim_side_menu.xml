@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/home_page"
+        android:title="Home page"
+        />
+
+    <item
+        android:id="@+id/hajj_guid"
+        android:title="Hajj Guid" />
+
+    <item
+        android:id="@+id/umrah_guid"
+        android:title="Umrah Guid" />
+
+    <item
+        android:id="@+id/tawaaf_sae_counter"
+        android:title="Tawaaf/Sae Counter" />
+    <item
+        android:id="@+id/Tracking_Umrah"
+        android:title="Tracking Umrah" />
+    <item
+        android:id="@+id/Tracking_Hajj"
+        android:title="Tracking Hajj" />
+
+    <item
+        android:id="@+id/voice_instructions"
+        android:title="Voice Instructions" />
+
+
+    <item
+        android:id="@+id/add_group_member"
+        android:title="Add Group Member" />
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"/>
+
+
+ <item
+        android:id="@+id/log_out"
+        android:title="Log out"/>
+
+
+
+</menu>

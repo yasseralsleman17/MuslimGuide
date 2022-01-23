@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HajjGuid">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.007">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/hajj_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=""
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textDirection="rtl" />
+
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_gravity="fill_horizontal"
+              android:layout_height="75dp">
+
+
+              <Button
+                  android:id="@+id/btn_hajj_start"
+                  android:layout_width="100dp"
+                  android:layout_height="50dp"
+                  android:layout_gravity="center"
+                  android:layout_marginTop="40dp"
+                  android:layout_marginLeft="30dp"
+                  android:layout_marginBottom="40dp"
+                  android:backgroundTint="#A88F75"
+                  android:bottomLeftRadius="10dp"
+                  android:bottomRightRadius="10dp"
+                  android:text="start"
+                  android:topLeftRadius="10dp"
+                  android:topRightRadius="10dp" />
+              <View
+                  android:layout_width="0dp"
+                  android:layout_height="0dp"
+                  android:layout_weight="1" />
+
+              <Button
+                  android:id="@+id/btn_hajj_next"
+                  android:layout_width="100dp"
+                  android:layout_height="50dp"
+                  android:layout_gravity="center"
+                  android:layout_marginTop="40dp"
+                  android:layout_marginRight="30dp"
+                  android:layout_marginBottom="40dp"
+                  android:backgroundTint="#A88F75"
+                  android:bottomLeftRadius="10dp"
+                  android:bottomRightRadius="10dp"
+                  android:text="next"
+                  android:topLeftRadius="10dp"
+                  android:topRightRadius="10dp" />
+
+          </LinearLayout>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

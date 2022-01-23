@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/drawable/roundedbutton.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/account_card.xml" value="0.4" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_add_group_member.xml" value="0.4" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_admin_home_page.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_chat_page.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_group_tracking.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_hajj_guid.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_help_spicial_need.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_log_in.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_map_of_mecca.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_member_list.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_muslim_home_page.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_sae_counter.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_tawaaf_counter.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_tawaaf_sae_counter.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_tracking_hajj.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_tracking_umrah.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_umrah_guid.xml" value="0.2" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/activity_voice_instructions.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/add_member.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/admin_home.xml" value="0.2" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/chat_home.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/duaas.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/fragment_duaa.xml" value="0.2" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/fragment_guide.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/fragment_second.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/guide.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/home.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/member.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/member_list.xml" value="0.15" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/muslim_home.xml" value="0.2" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/muslim_ome.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/my_message.xml" value="0.264" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/other_message.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/register_page.xml" value="0.3308457711442786" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/roundedbutton.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/sign_in_page.xml" value="0.42967542503863987" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/layout/voice_instraction_home.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/menu/admin_side_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/menu/faculty_member.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/menu/muslim_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/menu/muslim_side_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/MuslimGuide/app/src/main/res/menu/muslin_center_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/development/work 2_2020/MuslimGuide/app/src/main/res/layout/activity_admin_home_page.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

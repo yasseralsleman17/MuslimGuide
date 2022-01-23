@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84899180810",
+    "project_id": "muslimguide-150bd",
+    "storage_bucket": "muslimguide-150bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84899180810:android:ca02f0e78a714ac7218af3",
+        "android_client_info": {
+          "package_name": "com.example.muslimguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84899180810-m0ksnb93ru64ehop9u7afuljoe5oq0tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaNa7IVa7Ggzn59nma-DYxiqn5h5S9GAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84899180810-m0ksnb93ru64ehop9u7afuljoe5oq0tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
